@@ -1,6 +1,6 @@
 {
 	"name": "@lix/arduino-json",
-	"version": "6.21.5-2",
+	"version": "6.21.5-3",
 	"description": "ArduinoJson is a C++ JSON library for Arduino and IoT (Internet Of Things)",
 	"author": {
 		"name": "Lix N. Paulian",
